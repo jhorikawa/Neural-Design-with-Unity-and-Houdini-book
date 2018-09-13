@@ -97,3 +97,4 @@ build/
 # Houdini Engine related
 /UnitySDK/Assets/Houdini/
 /UnitySDK/Assets/HoudiniApi/
+Houdini-files/**/backup/
