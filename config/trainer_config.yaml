@@ -21,6 +21,22 @@ default:
     curiosity_strength: 0.01
     curiosity_enc_size: 128
 
+RockBrain:
+    batch_size: 1024
+    buffer_size: 10240
+    max_steps: 1.0e6
+
+LayoutBrain:
+    normalize: false
+    batch_size: 512
+    buffer_size: 8192
+    max_steps: 1.0e5
+
+HillBrain:
+    batch_size: 64
+    buffer_size: 12000
+    max_steps: 1.0e5
+
 BananaBrain:
     normalize: false
     batch_size: 1024

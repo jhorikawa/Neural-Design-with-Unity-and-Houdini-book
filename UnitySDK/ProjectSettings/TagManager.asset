@@ -41,10 +41,10 @@ TagManager:
   - goalie
   - strikerWall
   - striker
-  - 
-  - 
-  - 
-  - 
+  - agent
+  - goal
+  - collideRock
+  - uncollideRock
   - 
   - 
   - 
